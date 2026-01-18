@@ -37,6 +37,74 @@
 
 ---
 
+## 🚀 My Products
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://gnote.graphosai.com" target="_blank">
+<img src="icons/G-Note.png" width="80" height="80" alt="G-Note"/>
+<br/>
+<b>G-Note</b>
+<br/>
+<sub>PWA + Chrome Extension</sub>
+<br/>
+<sub>📝 Note-taking with Google Drive sync</sub>
+</a>
+<br/><br/>
+<a href="https://gnote.graphosai.com">
+<img src="https://img.shields.io/badge/Web_App-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://chromewebstore.google.com/detail/pncgcnggbbbgnhdniigjndekfmmblioj">
+<img src="https://img.shields.io/badge/Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://graphosai.com" target="_blank">
+<img src="icons/GraphosAI.png" width="80" height="80" alt="Graphos AI"/>
+<br/>
+<b>Graphos AI Studio</b>
+<br/>
+<sub>Chrome Extension + Web App</sub>
+<br/>
+<sub>🤖 AI content detection & humanization</sub>
+</a>
+<br/><br/>
+<a href="https://app.graphosai.com">
+<img src="https://img.shields.io/badge/Web_App-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://chromewebstore.google.com/detail/nedkeccobejcenjdkegndfejblbjplol">
+<img src="https://img.shields.io/badge/Extension-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://chromewebstore.google.com/detail/iepjpfaadjlhedjnichldgkmfcjjcelk" target="_blank">
+<img src="icons/LocalizeAI.png" width="80" height="80" alt="LocalizeAI"/>
+<br/>
+<b>LocalizeAI</b>
+<br/>
+<sub>Chrome Extension</sub>
+<br/>
+<sub>🌍 AI-powered localization testing</sub>
+</a>
+<br/><br/>
+<a href="https://chromewebstore.google.com/detail/iepjpfaadjlhedjnichldgkmfcjjcelk">
+<img src="https://img.shields.io/badge/Extension-06B6D4?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌐 [View Full Portfolio →](https://joealves517.github.io/portfolio)
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
