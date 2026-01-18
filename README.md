@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey, welcome to my profile!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" height="35" /> Hey, welcome to my profile!
 
 ### Full-Stack Developer | Chrome Extension Expert | AI Integration Specialist
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Languages and Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Languages and Tools
 
 ## 💻 Languages and Tools
 
@@ -39,7 +39,7 @@
 
 ---
 
-## My Products
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> My Products
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 
 <br/>
 
-<a href="https://joealves517.github.io/portfolio">
+<a href="https://joealves517.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/View_Full_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -103,7 +103,7 @@
 
 ---
 
-## Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Connect With Me
 
 <div align="center">
 
@@ -117,5 +117,5 @@
 ---
 
 <div align="center">
-  <em>💡 Open to freelance opportunities and interesting projects!</em>
+  <em><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="20" height="20" /> Open to freelance opportunities and interesting projects!</em>
 </div>
