@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, welcome to my profile!
+# Hey, welcome to my profile!
 
 ### Full-Stack Developer | Chrome Extension Expert | AI Integration Specialist
 
@@ -11,6 +11,8 @@
 </div>
 
 ---
+
+## Languages and Tools
 
 ## 💻 Languages and Tools
 
@@ -37,22 +39,20 @@
 
 ---
 
-## 🚀 My Products
+## My Products
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://gnote.graphosai.com" target="_blank">
 <img src="icons/G-Note.png" width="80" height="80" alt="G-Note"/>
 <br/>
 <b>G-Note</b>
 <br/>
 <sub>PWA + Chrome Extension</sub>
 <br/>
-<sub>📝 Note-taking with Google Drive sync</sub>
-</a>
+<sub>A simple note-taking app designed to optimize experience with Google Drive sync and essential AI features</sub>
 <br/><br/>
 <a href="https://gnote.graphosai.com">
 <img src="https://img.shields.io/badge/Web_App-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
@@ -62,15 +62,13 @@
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://graphosai.com" target="_blank">
 <img src="icons/GraphosAI.png" width="80" height="80" alt="Graphos AI"/>
 <br/>
 <b>Graphos AI Studio</b>
 <br/>
 <sub>Chrome Extension + Web App</sub>
 <br/>
-<sub>🤖 AI content detection & humanization</sub>
-</a>
+<sub>A comprehensive platform designed to detect AI-generated content and humanize text with voice profile matching</sub>
 <br/><br/>
 <a href="https://app.graphosai.com">
 <img src="https://img.shields.io/badge/Web_App-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white"/>
@@ -80,15 +78,13 @@
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://chromewebstore.google.com/detail/iepjpfaadjlhedjnichldgkmfcjjcelk" target="_blank">
 <img src="icons/LocalizeAI.png" width="80" height="80" alt="LocalizeAI"/>
 <br/>
 <b>LocalizeAI</b>
 <br/>
 <sub>Chrome Extension</sub>
 <br/>
-<sub>🌍 AI-powered localization testing</sub>
-</a>
+<sub>A powerful testing tool designed to verify localization directly on websites with live translation and pseudo-localization</sub>
 <br/><br/>
 <a href="https://chromewebstore.google.com/detail/iepjpfaadjlhedjnichldgkmfcjjcelk">
 <img src="https://img.shields.io/badge/Extension-06B6D4?style=flat-square&logo=google-chrome&logoColor=white"/>
@@ -99,13 +95,15 @@
 
 <br/>
 
-### 🌐 [View Full Portfolio →](https://joealves517.github.io/portfolio)
+<a href="https://joealves517.github.io/portfolio">
+<img src="https://img.shields.io/badge/View_Full_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
