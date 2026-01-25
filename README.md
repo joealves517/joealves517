@@ -97,7 +97,7 @@
 <br/>
 <sub>Smart web data extractor powered by Gemini AI for zero-code data extraction from any website</sub>
 <br/><br/>
-<a href="#">
+<a href="https://chromewebstore.google.com/detail/khkpgeanppbdibciaocedfagplmhhpop">
 <img src="https://img.shields.io/badge/Extension-F97316?style=flat-square&logo=google-chrome&logoColor=white"/>
 </a>
 </td>
