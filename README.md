@@ -5,7 +5,7 @@
 ### Full-Stack Developer | Chrome Extension Expert | AI Integration Specialist
 
 <p align="center">
-  <em>Building production-ready applications that scale • 25,000+ users • 100,000+ lines of code</em>
+  <em>Building production-ready applications that scale • 25,000+ users • 115,000+ lines of code</em>
 </p>
 
 </div>
@@ -43,7 +43,7 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="icons/G-Note.png" width="80" height="80" alt="G-Note"/>
 <br/>
 <b>G-Note</b>
@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="icons/GraphosAI.png" width="80" height="80" alt="Graphos AI"/>
 <br/>
 <b>Graphos AI Studio</b>
@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/Extension-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="icons/LocalizeAI.png" width="80" height="80" alt="LocalizeAI"/>
 <br/>
 <b>LocalizeAI</b>
@@ -86,6 +86,19 @@
 <br/><br/>
 <a href="https://chromewebstore.google.com/detail/iepjpfaadjlhedjnichldgkmfcjjcelk">
 <img src="https://img.shields.io/badge/Extension-06B6D4?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="25%">
+<img src="icons/SmartScraper.png" width="80" height="80" alt="AI Scraper"/>
+<br/>
+<b>AI Scraper</b>
+<br/>
+<sub>Chrome Extension + Cloud API</sub>
+<br/>
+<sub>Smart web data extractor powered by Gemini AI for zero-code data extraction from any website</sub>
+<br/><br/>
+<a href="#">
+<img src="https://img.shields.io/badge/Extension-F97316?style=flat-square&logo=google-chrome&logoColor=white"/>
 </a>
 </td>
 </tr>
