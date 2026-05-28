@@ -4,10 +4,6 @@
 
 ### Full-Stack Developer | Chrome Extension Expert | AI Integration Specialist
 
-<p align="center">
-  <em>Building production-ready applications that scale • 25,000+ users • 115,000+ lines of code</em>
-</p>
-
 </div>
 
 ---
